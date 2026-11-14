@@ -10,8 +10,11 @@ Nombres:
 
 [WILBER TEJEDA FERNANDEZ 2025-3392]
 
+
 Asignatura: Programación Básica
+
 Profesor: Gamalier Reyes del Carmen
+
 Universidad: Universidad Central del Este (UCE)
 
 Descripción del programa
