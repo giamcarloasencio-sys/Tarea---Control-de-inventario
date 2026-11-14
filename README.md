@@ -51,3 +51,8 @@ La información de cada producto: código, nombre, precio, cantidad y valor tota
 
 Capturas de la ejecución
 
+<img width="395" height="805" alt="b3e6fc51-1c77-48c4-ae00-d2190cfdddbc" src="https://github.com/user-attachments/assets/42545989-020a-4c79-a157-aff445483b41" />
+
+<img width="446" height="829" alt="422e9b78-230a-49cf-ad02-b5b37c2748ac" src="https://github.com/user-attachments/assets/09c1e138-99af-4ec7-b3e2-37a591dd1fd7" />
+
+<img width="929" height="724" alt="dbd05381-7045-42e0-a0a3-39dfd2ba47a7" src="https://github.com/user-attachments/assets/c339ffdf-ed62-4020-bf1e-a6f37a7fb9fe" />
