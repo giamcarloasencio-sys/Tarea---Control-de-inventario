@@ -1,5 +1,7 @@
 Control de inventario de TecnoPunto
+
 Datos de los autores
+
 Nombre: [GIAMCARLO ASENCIO ROBLES 2025-3103], [RONIEL JIMENEZ SANTANA 2025-3663], [WILBER TEJEDA FERNANDEZ 2025-3392]
 Asignatura: Programación Básica
 Profesor: Gamalier Reyes del Carmen
